@@ -50,5 +50,7 @@
 > **Which production companies of the movies has the heighst posibility of getting high popularity index?**
 #### Q02 :  
 > **What kinds of properties are associated with movies that have high, low and moderatr Budget requirments?**
+> 
+![submission](https://user-images.githubusercontent.com/90326752/184548067-1e39cc34-91b0-4ff1-8563-a53c41925875.png)
 
 
